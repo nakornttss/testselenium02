@@ -26,5 +26,5 @@ jobs:
         if: always()
         with:
           name: imagesresult
-          path: D:\a\testselenium01\testselenium01\bin\Debug\net6.0\imagesresult
+          path: D:\a\testselenium02\testselenium02\bin\Debug\net6.0\imagesresult
           retention-days: 30
